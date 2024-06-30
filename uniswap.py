@@ -10,7 +10,7 @@ import time
 from web3 import Web3
 from web3.middleware import geth_poa_middleware
 
-INFURA_API_KEY = ''
+INFURA_API_KEY = 'https://eth1.lava.build/lava-referer-5c74fcf9-afe9-427a-ad4f-1d974898b549'
  
 # Replace with your private key and Ethereum node provider URL
 private_key = ""
