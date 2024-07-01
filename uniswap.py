@@ -14,7 +14,7 @@ INFURA_API_KEY = 'https://eth1.lava.build/lava-referer-5c74fcf9-afe9-427a-ad4f-1
  
 # Replace with your private key and Ethereum node provider URL
 private_key = ""
-provider_url = "https://mainnet.infura.io/v3/{5817b861d46f4ef989db5e46b3aa2470}"
+provider_url = "https://mainnet.infura.io/v3/5817b861d46f4ef989db5e46b3aa2470"
 
 
 # Change this value based on the current exchange rate
