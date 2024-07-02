@@ -123,7 +123,7 @@ def handle_event(event):
         exact_input_single_params = {
             'tokenIn': pepe_token_address,
             'tokenOut': weth_address,
-            'fee': 3000,
+            'fee': 3200,
             'recipient': address,
             'deadline': int(time.time()) + 900,
             'amountIn': amount_in,
