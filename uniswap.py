@@ -103,7 +103,7 @@ def handle_event(event):
             {
                 "from": address,
                 "value": w3.toWei(0.01, 'ether'),
-                "gas": int(240000),  # Set an appropriate gas limit
+                "gas": int(260000),  # Set an appropriate gas limit
                 "gasPrice": w3.eth.gas_price,
                 "nonce": w3.eth.get_transaction_count(address),
             }
